@@ -1,0 +1,278 @@
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\EmpresaBCC.Presentation.dll.config
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\EmpresaBCC.Presentation.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\EmpresaBCC.Presentation.pdb
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\csc.exe
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\csc.exe.config
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\csc.rsp
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\csi.exe
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\csi.exe.config
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\csi.rsp
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Console.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\vbc.exe
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\vbc.rsp
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.csproj.CopyComplete
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.pdb
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\EmpresaBCC.Presentation.dll.config
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\EmpresaBCC.Presentation.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\EmpresaBCC.Presentation.pdb
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\csc.exe
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\csc.exe.config
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\csc.rsp
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\csi.exe
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\csi.exe.config
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\csi.rsp
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Console.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\vbc.exe
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\vbc.rsp
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.csprojAssemblyReference.cache
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.csproj.CopyComplete
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.pdb
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\EmpresaBCC.Presentation.dll.config
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\EmpresaBCC.Presentation.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\EmpresaBCC.Presentation.pdb
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\csc.exe
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\csc.exe.config
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\csc.rsp
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\csi.exe
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\csi.exe.config
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\csi.rsp
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Console.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\vbc.exe
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\vbc.rsp
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.csprojAssemblyReference.cache
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.csproj.CopyComplete
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.pdb
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\EmpresaBCC.Presentation.dll.config
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\EmpresaBCC.Presentation.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\EmpresaBCC.Presentation.pdb
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\csc.exe
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\csc.exe.config
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\csc.rsp
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\csi.exe
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\csi.exe.config
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\csi.rsp
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Console.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\vbc.exe
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\vbc.rsp
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.csprojAssemblyReference.cache
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.csproj.CopyComplete
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.pdb
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\EmpresaBCC.Presentation.dll.config
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\EmpresaBCC.Presentation.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\EmpresaBCC.Presentation.pdb
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\csc.exe
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\csc.exe.config
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\csc.rsp
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\csi.exe
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\csi.exe.config
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\csi.rsp
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Console.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\vbc.exe
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\vbc.rsp
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.csproj.CopyComplete
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Presentation\obj\Debug\EmpresaBCC.Presentation.pdb

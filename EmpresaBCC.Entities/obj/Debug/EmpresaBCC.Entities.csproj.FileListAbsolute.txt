@@ -1,0 +1,35 @@
+C:\Users\valber.santos\Desktop\Treinamento C#\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\bin\Debug\EmpresaBCC.Entities.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\bin\Debug\EmpresaBCC.Entities.pdb
+C:\Users\valber.santos\Desktop\Treinamento C#\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.csprojAssemblyReference.cache
+C:\Users\valber.santos\Desktop\Treinamento C#\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.csproj.CoreCompileInputs.cache
+C:\Users\valber.santos\Desktop\Treinamento C#\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.pdb
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\bin\Debug\EmpresaBCC.Entities.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\bin\Debug\EmpresaBCC.Entities.pdb
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.csproj.CoreCompileInputs.cache
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.dll
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.pdb
+C:\Users\valber.santos\Desktop\Pasta de Trabalho\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.csprojAssemblyReference.cache
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\bin\Debug\EmpresaBCC.Entities.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\bin\Debug\EmpresaBCC.Entities.pdb
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.csprojAssemblyReference.cache
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.csproj.CoreCompileInputs.cache
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.dll
+C:\Users\COTI-MAQ02\Desktop\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.pdb
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\bin\Debug\EmpresaBCC.Entities.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\bin\Debug\EmpresaBCC.Entities.pdb
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.csprojAssemblyReference.cache
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.csproj.CoreCompileInputs.cache
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.pdb
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Entities\bin\Debug\EmpresaBCC.Entities.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Entities\bin\Debug\EmpresaBCC.Entities.pdb
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.csprojAssemblyReference.cache
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.csproj.CoreCompileInputs.cache
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.dll
+C:\Users\valbe\Desktop\Treinando webdeveloper\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.pdb
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Entities\bin\Debug\EmpresaBCC.Entities.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Entities\bin\Debug\EmpresaBCC.Entities.pdb
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.csproj.CoreCompileInputs.cache
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.dll
+C:\Users\valber.santos\Desktop\Treinamento C#\ROBSON BCC\EmpresaBCC_ProjetoLivro - ORACLE\EmpresaBCC.Entities\obj\Debug\EmpresaBCC.Entities.pdb

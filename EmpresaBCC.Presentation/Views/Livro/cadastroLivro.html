@@ -1,0 +1,141 @@
+﻿<!DOCTYPE html>
+<html ng-app="appLivro">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="../../Content/bootstrap.min.css" rel="stylesheet" />
+
+</head>
+<body class="container-fluid" ng-controller="livroController">
+
+    <div class="container-fluid p-3 mb-2 text-white" style="background-color: #00569f">
+        <h5 class="row my-2 ml-3 p-0 text-white">Sistema Controle de Livros - Cadastrar Livros</h5>
+    </div>
+    <br />
+
+    <div class="alert-danger">
+        <strong>{{mensagem}}</strong>
+    </div>
+
+    <br />
+
+
+    <div class="container-fluid mb-3">
+        <div class="row">
+            <div class="form-group col-md-4">
+                <label class="text-muted small">Número ISBN:</label>
+                <input type="text" class="form-control col-md-12" placeholder="Número ISBN"
+                       ng-model="livro.Isbn" />
+            </div>
+
+            <div class="form-group col-md-8">
+                <label class="text-muted small">Nome do Livro:</label>
+                <input type="text" class="form-control col-md-12" placeholder="Nome do Livro"
+                       ng-model="livro.Nome" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="form-group col-md-4">
+                <label class="text-muted small">Preço:</label>
+                <input type="text" class="form-control col-md-12" placeholder="0,00"
+                       ng-model="livro.Preco" />
+            </div>
+            <div class="form-group col-md-8">
+                <label class="text-muted small">Data da Publicação:</label>
+                <input type="date" class="form-control col-md-12" placeholder="dd-mm-yyyy"
+                       ng-model="livro.DataPublicacao" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="form-group col-md-6">
+                <label class="text-muted small">Url da imagem do livro:</label>
+                <input type="text" class="form-control col-md-12" placeholder="http://..."
+                       ng-model="livro.ImagemCapa" />
+            </div>
+
+            <div class="form-group col-md-4">
+
+                <label>Selecione o Autor:</label>
+                <select class="form-control" ng-model="livro.IdAutor" ng-init="consultarAutores()">
+                    <option value="">Escolha uma Opção</option>
+                    <option value="{{a.IdAutor}}" ng-repeat="a in autores">
+                        {{a.Nome}}
+                    </option>
+                </select>
+            </div>
+        </div>
+
+        <div class="row mt-5 justify-content-center">
+            <div class="col-sm-2">
+                <button class="btn btn-block btn-success font-weight-bold" ng-click="cadastrar()"> Cadastrar </button>
+            </div>
+            <div class="col-sm-2">
+                <a href="/index.html" class="btn btn-block btn-secondary font-weight-bold">Voltar</a>
+            </div>
+        </div>
+
+
+    </div>
+
+    <script src="../../Scripts/jquery-3.0.0.min.js"></script>
+    <script src="../../Scripts/bootstrap.min.js"></script>
+    <script src="../../Scripts/angular.min.js"></script>
+
+    <script>
+
+        var appLivro = angular.module('appLivro', []);
+
+        appLivro.controller('livroController',
+            function ($scope, $http) {
+
+                $scope.livro = {
+                    Isbn: '',
+                    Nome: '',
+                    Preco: '',
+                    DataPublicacao: '',
+                    ImagemCapa: '',
+                    IdAutor: ''
+
+                };
+
+                $scope.cadastrar = function () {
+
+                    $scope.mensagem = "Processando requisição...";
+
+                    $http.post("http://localhost:60599/api/Livro", $scope.livro)
+                        .then(function (result) {
+
+                            $scope.mensagem = result.data;
+
+                            $scope.livro.Isbn = '';
+                            $scope.livro.Nome = '';
+                            $scope.livro.Preco = '';
+                            $scope.livro.DataPublicacao = '';
+                            $scope.livro.ImagemCapa = '';
+                            $scope.livro.IdAutor = '';
+                        })
+                        .catch(function (e) {
+                            $scope.mensagem = e.data;
+                        })
+                };
+
+                $scope.consultarAutores = function () {
+
+                    $http.get("http://localhost:60599/api/Autor")
+                        .then(function (result) {
+                            $scope.autores = result.data;
+                        })
+                        .catch(function (e) {
+                            $scope.mensagem = e.data;
+                        });
+                }
+
+            });
+
+    </script>
+
+
+
+</body>
+</html>
+

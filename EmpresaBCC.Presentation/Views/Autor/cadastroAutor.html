@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html ng-app="appAutor">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <!-- folha de estilo CSS do bootstrap -->
+    <link href="../../Content/bootstrap.min.css" rel="stylesheet" />
+
+</head>
+<body class="container-fluid" ng-controller="autorController">
+    >
+
+    <div class="container-fluid p-3 mb-2 text-white" style="background-color: #00569f">
+        <h5 class="row my-2 ml-3 p-0 text-white">Sistema Controle de Livros - Cadastrar Autor</h5>
+    </div>
+
+    <div class="alert-danger mt-3 mb-3">
+        <strong>{{mensagem}}</strong>
+    </div>
+
+    <div class="container-fluid mb-3">
+        <div class="row">
+            <div class="form-group col-md-12">
+                <label class="text-muted small">Nome do Autor:</label>
+                <input type="text" class="form-control col-md-12" placeholder="Nome do Autor" ng-model="autor.Nome" />
+            </div>
+        </div>
+        <div class="row mt-5 justify-content-center">
+            <div class="col-sm-2">
+                <button class="btn btn-block btn-success font-weight-bold" ng-click="cadastrar()"> Cadastrar </button>
+            </div>
+            <div class="col-sm-2">
+                <a href="/index.html" class="btn btn-block btn-secondary font-weight-bold">Voltar</a>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="../../Scripts/jquery-3.0.0.min.js"></script>
+    <script src="../../Scripts/bootstrap.min.js"></script>
+    <script src="../../Scripts/angular.min.js"></script>
+
+
+    <script>
+
+        var appAutor = angular.module('appAutor', []);
+
+        appAutor.controller('autorController',
+            function ($scope, $http) {
+
+                //modelo de dados JSON
+                $scope.autor = {
+                    Nome: ''
+                };
+
+                //função para executar a API
+                $scope.cadastrar = function () {
+
+                    $scope.mensagem = "Processando requisição...";
+
+                    //informe o endereço do projeto API
+                    $http.post("http://localhost:60599/api/Autor", $scope.autor)
+                        .then(function (result) {
+
+                            $scope.mensagem = result.data;
+                            $scope.autor.Nome = '';
+                        })
+                        .catch(function (e) {
+                            $scope.mensagem = e.data;
+                        })
+                };
+
+            });
+
+    </script>
+
+</body>
+</html>
